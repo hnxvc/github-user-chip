@@ -1,0 +1,4 @@
+- `npm install babel webpack webpack-dev-server -g`
+- `npm install`
+- `npm start`
+-  Open http://localhost:9999/
